@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Hp/IdeaProjects/API Automation1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.433">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TestPOSTPositive"
+                time="5.433"
+                classname="org.example.Tests.CRUD.POST.BDDStylePOST">
+            </testcase>
+</testsuite>

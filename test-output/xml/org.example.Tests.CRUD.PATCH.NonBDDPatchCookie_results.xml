@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API Automation1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.575">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TestPatchpositive"
+                time="6.575"
+                classname="org.example.Tests.CRUD.PATCH.NonBDDPatchCookie">
+            </testcase>
+</testsuite>
